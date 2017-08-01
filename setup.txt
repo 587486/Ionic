@@ -1,0 +1,2 @@
+npm config set http_proxy http://587486:december@89@proxy.cognizant.com:6050
+npm config set proxy http://587486:december@89@proxy.cognizant.com:6050
